@@ -5,6 +5,6 @@ Parola: admin
 </pre>
 
 <pre>
-Lise yıllarında yapmış olduğum eski projelerden birisidir.
+Lise yıllarında yazmış olduğum eski projelerden birisidir.
 Yazılmış olan kodlar karmaşık ve eskidir, sinirleriniz bozulabilir.
 </pre>
