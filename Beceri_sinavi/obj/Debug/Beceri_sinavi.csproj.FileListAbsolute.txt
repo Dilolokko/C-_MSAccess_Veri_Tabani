@@ -1,0 +1,13 @@
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\bin\Debug\Beceri_sinavi.exe
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\bin\Debug\Beceri_sinavi.pdb
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\ResolveAssemblyReference.cache
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.Form1.resources
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.Properties.Resources.resources
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.csproj.GenerateResource.Cache
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.exe
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.pdb
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.Ana_menü.resources
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.hakkimizda.resources
+F:\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.rapor.resources
+H:\Yeni Klasör\Mahmut YETİŞİR 926 Beceri Sınavı\Visual Studio\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.exe
+H:\Yeni Klasör\Mahmut YETİŞİR 926 Beceri Sınavı\Visual Studio\Beceri\Beceri_sinavi\Beceri_sinavi\obj\Debug\Beceri_sinavi.pdb
