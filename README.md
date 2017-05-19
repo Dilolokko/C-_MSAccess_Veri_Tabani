@@ -1,4 +1,4 @@
-## C# ile Microsoft Access Veri Tabanı işlemleri ve raporlama yapan program
+## C# ile Microsoft Access Veri Tabanı işlemleri ve Raporlama yapan program
 <pre>
 Kullanıcı Adı: admin
 Parola: admin
